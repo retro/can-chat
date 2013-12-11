@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "main": "app.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/retro/can-chat",
+  "authors": [
+    "Mihael Konjevic <konjevic@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}

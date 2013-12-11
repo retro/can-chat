@@ -1,0 +1,9 @@
+[submodule "KiwiIRC"]
+	path = KiwiIRC
+	url = git@github.com:prawnsalad/KiwiIRC.git
+[submodule "irc/can"]
+	path = irc/can
+	url = git@github.com:bitovi/canjs.git
+[submodule "irc/steal"]
+	path = irc/steal
+	url = git@github.com:bitovi/steal.git

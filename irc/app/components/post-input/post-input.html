@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <title>Post input demo page!</title>
+  </head>
+  <body>
+    <div id="content"></div>
+    <script type='text/javascript' src='../../../steal/steal.js'></script>
+    <script type='text/javascript'>
+      steal('app/components/post-input', function(Chat){
+
+        var view = can.view.mustache('<irc-post-input></irc-post-input>');
+        $('#content').html(view());
+        
+      })
+    </script>
+  </body>
+</html>
