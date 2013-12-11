@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "main": "app.js",
+  "name": "irc",
+  "main": "app/app.js",
   "version": "0.0.0",
   "homepage": "https://github.com/retro/can-chat",
   "authors": [

@@ -20,4 +20,4 @@ To
         public_http : '../irc/'
     });
 
-Start the KiwiIRC server and enjoy CanJS frontend.g
+Start the KiwiIRC server and enjoy CanJS frontend.
